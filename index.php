@@ -1,2 +1,3 @@
-<?php
-data();
+<?<?php
+echo 1;exit;
+?>
