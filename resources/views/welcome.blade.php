@@ -5,7 +5,11 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
+<<<<<<< HEAD
         <title>Laravel</title>
+=======
+        <title>Larave</title>
+>>>>>>> d85777244db54978ba24b4872b80752ee1141acf
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet" type="text/css">
@@ -79,7 +83,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
+<<<<<<< HEAD
                     Laravel--Github
+=======
+                    Laravel66666
+>>>>>>> d85777244db54978ba24b4872b80752ee1141acf
                 </div>
 
                 <div class="links">
