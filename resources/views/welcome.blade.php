@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel--GithubBase
+                    Laravel--Github关闭
                 </div>
 
                 <div class="links">
