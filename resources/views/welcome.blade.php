@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel--Github程序
+                    Laravel--是的
                 </div>
 
                 <div class="links">
