@@ -8,4 +8,5 @@ use App\Http\Controllers\Controller;
 class IndexController extends Controller
 {
     //
+    echo 1;exit;
 }
